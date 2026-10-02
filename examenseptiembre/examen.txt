@@ -1,0 +1,6 @@
+en este examen tenemos que haser tenemos que en una descipcion
+de 5 lineas pero antes de esotenemos que ntrar a alumnos ydespues
+ copiarmi direccion y pegarla en kitty para dspues clonarlo
+y despues crear examenseptiembre con mkdir y despues examen.txt 
+con touchy poner code . para entrar donde estas.
+
